@@ -2,25 +2,25 @@
   "_args": [
     [
       {
-        "raw": "passport-boomrang@^0.1.2",
+        "raw": "passport-keylead@^0.1.1",
         "scope": null,
-        "escapedName": "passport-boomrang",
-        "name": "passport-boomrang",
-        "rawSpec": "^0.1.2",
-        "spec": ">=0.1.2 <0.2.0",
+        "escapedName": "passport-keylead",
+        "name": "passport-keylead",
+        "rawSpec": "^0.0.1",
+        "spec": ">=0.0.1 <0.2.0",
         "type": "range"
       },
       "/Users/alireza/Workspace/Nivo/Nivo-BackendAPI"
     ]
   ],
-  "_from": "passport-boomrang@>=0.1.2 <0.2.0",
-  "_id": "passport-boomrang@0.1.2",
+  "_from": "passport-keylead@>=0.0.1 <0.2.0",
+  "_id": "passport-keylead@0.0.1",
   "_inCache": true,
-  "_location": "/passport-boomrang",
+  "_location": "/passport-keylead",
   "_nodeVersion": "4.2.2",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/passport-boomrang-0.1.2.tgz_1459602552896_0.22338018706068397"
+    "tmp": "tmp/passport-keylead-0.0.1.tgz_1459602552896_0.22338018706068397"
   },
   "_npmUser": {
     "name": "alireza alidoust",
@@ -29,21 +29,21 @@
   "_npmVersion": "2.14.7",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "passport-boomrang@^0.1.2",
+    "raw": "passport-keylead@^0.0.1",
     "scope": null,
-    "escapedName": "passport-boomrang",
-    "name": "passport-boomrang",
-    "rawSpec": "^0.1.2",
-    "spec": ">=0.1.2 <0.2.0",
+    "escapedName": "passport-keylead",
+    "name": "passport-keylead",
+    "rawSpec": "^0.0.1",
+    "spec": ">=0.0.1 <0.2.0",
     "type": "range"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/passport-boomrang/-/passport-boomrang-0.1.2.tgz",
+  "_resolved": "https://registry.npmjs.org/passport-keylead/-/passport-keylead-0.0.1.tgz",
   "_shasum": "099eec9f9fd6b39c87112b25a35b0c68d7090ff8",
   "_shrinkwrap": null,
-  "_spec": "passport-boomrang@^0.1.2",
+  "_spec": "passport-keylead@^0.0.1",
   "_where": "/Users/alireza/Workspace/Nivo/Nivo-BackendAPI",
   "author": {
     "name": "Alireza Alidoust",
@@ -56,7 +56,7 @@
   "dependencies": {
     "passport-oauth2": "1.x.x"
   },
-  "description": "Boomrang authentication strategy for Passport.",
+  "description": "Keylead authentication strategy for Passport.",
   "devDependencies": {
     "chai": "1.x.x",
     "chai-passport-strategy": "0.2.x",
@@ -65,16 +65,16 @@
   "directories": {},
   "dist": {
     "shasum": "099eec9f9fd6b39c87112b25a35b0c68d7090ff8",
-    "tarball": "https://registry.npmjs.org/passport-boomrang/-/passport-boomrang-0.1.2.tgz"
+    "tarball": "https://registry.npmjs.org/passport-keylead/-/passport-keylead-0.0.1.tgz"
   },
   "engines": {
     "node": ">= 0.4.0"
   },
   "gitHead": "531cd5065b65411adc1d4ad99bdeca26dacdeaaa",
-  "homepage": "https://github.com/sunnystatue/passport-boomrang#readme",
+  "homepage": "https://github.com/sunnystatue/passport-keylead#readme",
   "keywords": [
     "passport",
-    "boomrang",
+    "keylead",
     "abplus",
     "bank",
     "ayande",
@@ -97,15 +97,15 @@
       "email": "a.alidoost@gmail.com"
     }
   ],
-  "name": "passport-boomrang",
+  "name": "passport-keylead",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alireza alidoust/passport-boomrang.git"
+    "url": "git://github.com/alireza alidoust/passport-keylead.git"
   },
   "scripts": {
     "test": "mocha --reporter spec --require test/bootstrap/node test/*.test.js"
   },
-  "version": "0.1.2"
+  "version": "0.1.1"
 }

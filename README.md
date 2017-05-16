@@ -23,8 +23,8 @@ accepts these credentials and calls `done` providing a user, as well as
 `options` specifying an app ID, app secret, callback URL.
 
     passport.use(new KeyleadStrategy({
-        clientID: BOOMRANG_APP_ID,
-        clientSecret: BOOMRANG_APP_SECRET,
+        clientID: KEYLEAD_APP_ID,
+        clientSecret: KEYLEAD_APP_SECRET,
         scope: "adanalas:user:get",
         callbackURL: "http://localhost:3000/auth/keylead/callback"
       },
